@@ -1,0 +1,5 @@
+Elegir y justificar el formato de archivo a utilizar:
+
+Como los datos de este programa solo se van a usar en python, en este caso elegi usar .pickle.
+Segun pruebas en python resulta ser mas rapido pickle que json y como no se especifica si el contenido
+de estos archivos tiene que estar guardado en algun formato de texto especifico, el formato binario de pickle sirve
